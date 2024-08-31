@@ -1,0 +1,12 @@
+.voltar {
+  min-width: 250px;
+  max-width: 498px;
+  height: 58px;
+  border: 1px solid rgba(0, 0, 0, 0.515);
+  border-radius: 8px;
+  margin: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

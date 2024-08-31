@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  margin: auto;
+  max-width: 500px;
+  text-align: center;
+}
+
+h1{
+  margin: 20px;
+}
+
+a {
+  all: unset;
+}

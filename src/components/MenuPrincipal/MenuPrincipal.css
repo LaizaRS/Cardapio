@@ -1,0 +1,35 @@
+ul {
+  list-style: none;
+}
+
+:root {
+  --bg-bebidas: url('../../../public/imagens/inicio/bg-bebidas.jpeg');
+  --bg-drinks: url('../../../public/imagens/inicio/bg-drinks.jpg');
+  --bg-pizzas: url('../../../public/imagens/inicio/bg-pizza.jpg');
+  --bg-sobremesas: url('../../../public/imagens/inicio/bg-sobremesas.jpg');
+}
+
+li{
+  min-width: 250px;
+  max-width: 498px;
+  height: 58px;
+  border: 1px solid rgba(0, 0, 0, 0.515);
+  border-radius: 8px;
+
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+li:hover {
+  box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  max-width: 498px;
+  height: 58px;
+}
+
+
+/* .bg-imagem {
+  height: 56px;
+  width: 496px;
+} */

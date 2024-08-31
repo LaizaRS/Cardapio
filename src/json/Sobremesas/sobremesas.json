@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Torta de Limão",
+    "image_url": "https://cooknenjoy.com/wp-content/uploads/2021/10/torta-de-limao-01-1800x1286.jpg",
+    "ingredients": [],
+    "price": 14.99
+  },
+  {
+    "id": "2",
+    "title": "Brownie de Chocolate",
+    "image_url": "https://s2-receitas.glbimg.com/YYrJO2uFS4x0uHq-_fRmGbVG5m4=/0x0:275x183/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/y/H/ZSIYRzRsmXIb73mnAP0Q/brownie-de-chocolate.jpg",
+    "ingredients": [],
+    "price": 12.99
+  },
+  {
+    "id": "3",
+    "title": "Cheesecake de Morango",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kA6rTeT42ixBwT3IEQgGCqHCiE9VLiQO6Q&s",
+    "ingredients": [],
+    "price": 18.99
+  },
+  {
+    "id": "4",
+    "title": "Pavê de Chocolate",
+    "image_url": "https://i.ytimg.com/vi/hWeaHhsi39g/maxresdefault.jpg",
+    "ingredients": [],
+    "price": 15.99
+  },
+  {
+    "id": "5",
+    "title": "Sorvete de Baunilha",
+    "image_url": "https://catracalivre.com.br/wp-content/uploads/2023/08/istock-1326143969-910x607.jpg",
+    "ingredients": [],
+    "price": 9.99
+  }
+]
