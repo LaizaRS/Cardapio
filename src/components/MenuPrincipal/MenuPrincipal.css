@@ -2,12 +2,12 @@ ul {
   list-style: none;
 }
 
-:root {
+/* :root {
   --bg-bebidas: url('../../../public/imagens/inicio/bg-bebidas.jpeg');
   --bg-drinks: url('../../../public/imagens/inicio/bg-drinks.jpg');
   --bg-pizzas: url('../../../public/imagens/inicio/bg-pizza.jpg');
   --bg-sobremesas: url('../../../public/imagens/inicio/bg-sobremesas.jpg');
-}
+} */
 
 li{
   min-width: 250px;
@@ -32,4 +32,7 @@ li:hover {
 /* .bg-imagem {
   height: 56px;
   width: 496px;
+  min-width: 150px;
+  margin-bottom: -13.2%;
+  border-radius: 8px;
 } */

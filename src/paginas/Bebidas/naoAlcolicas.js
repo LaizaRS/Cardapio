@@ -1,3 +1,4 @@
+import BoaoVoltar from "../../components/BotaoVoltar/BotaoVoltar";
 import Cardapio from "../../components/Cardapio/Cardapio";
 import bebidasNaoAlcolicas from "../../json/Bebidas/naoAlcoolicas.json";
 
@@ -5,6 +6,7 @@ const Naoalcolicas = () => {
 
   return (
     <div>
+      <BoaoVoltar />
       <Cardapio itens={bebidasNaoAlcolicas} />
     </div>
   )
