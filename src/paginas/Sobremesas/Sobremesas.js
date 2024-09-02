@@ -1,5 +1,5 @@
-import BoaoVoltar from "../../components/BotaoVoltar/BotaoVoltar";
-import Cardapio from "../../components/Cardapio/Cardapio";
+import BoaoVoltar from "../../componentes/BotaoVoltar/BotaoVoltar";
+import Cardapio from "../../componentes/Cardapio/Cardapio";
 import sobremesa from "../../json/Sobremesas/sobremesas.json";
 
 const Sobremesas = () => {

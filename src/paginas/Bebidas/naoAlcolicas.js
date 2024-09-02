@@ -1,8 +1,8 @@
-import BoaoVoltar from "../../components/BotaoVoltar/BotaoVoltar";
-import Cardapio from "../../components/Cardapio/Cardapio";
+import BoaoVoltar from "../../componentes/BotaoVoltar/BotaoVoltar";
+import Cardapio from "../../componentes/Cardapio/Cardapio";
 import bebidasNaoAlcolicas from "../../json/Bebidas/naoAlcoolicas.json";
 
-const Naoalcolicas = () => {
+const NaoAlcolicas = () => {
 
   return (
     <div>
@@ -13,4 +13,4 @@ const Naoalcolicas = () => {
 
 }
 
-export default Naoalcolicas
+export default NaoAlcolicas

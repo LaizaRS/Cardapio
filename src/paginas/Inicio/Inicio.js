@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import MenuPrincipal from "../../components/MenuPrincipal/MenuPrincipal";
+import MenuPrincipal from "../../componentes/MenuPrincipal/MenuPrincipal";
 import "./Inicio.css";
 
 const Inicio = () => {
