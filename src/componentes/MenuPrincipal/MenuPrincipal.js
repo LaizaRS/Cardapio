@@ -1,11 +1,10 @@
-import "./MenuPrincipal.css"
+import { Link } from "react-router-dom";
+import "./MenuPrincipal.css";
 
-const MenuPrincipal = ({ opcao }) => {
-  return (
-    <ul>
-      <li>{opcao}</li>
-    </ul>
-  )
+export const MenuPrincipal = ({ to, opcao }) => {
+  return <Link to={to}>
+    <li>{opcao}</li>
+  </Link>
 }
 
 export default MenuPrincipal

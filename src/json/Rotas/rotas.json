@@ -1,0 +1,18 @@
+[
+  {
+    "caminho": "/pizzas",
+    "opcao": "Pizzas"
+  },
+  {
+    "caminho": "/bebidas",
+    "opcao": "Bebidas"
+  },
+  {
+    "caminho": "/drinks",
+    "opcao": "Drinks"
+  },
+  {
+    "caminho": "/sobremesas",
+    "opcao": "Sobremesas"
+  }
+]
